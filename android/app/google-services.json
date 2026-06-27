@@ -1,0 +1,195 @@
+{
+  "project_info": {
+    "project_number": "448732648895",
+    "firebase_url": "https://drone-delivery-app-1acd6-default-rtdb.firebaseio.com",
+    "project_id": "drone-delivery-app-1acd6",
+    "storage_bucket": "drone-delivery-app-1acd6.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:448732648895:android:e28ae448dd0329ee117d0a",
+        "android_client_info": {
+          "package_name": "com.drone.delivery"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "448732648895-raueqvdiqqv83oeousschqjnao1jtpe7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.drone.delivery",
+            "certificate_hash": "67b9e9456eb6adbaa3b45129c9a6276a4ed9f222"
+          }
+        },
+        {
+          "client_id": "448732648895-nkc2eovjdv2j0civm4kdfikp2f9c2304.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLWTwpESrRNInEpmfCJGryBtQM8o8v6sI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "448732648895-694qj7lempj0863n0qi7hgfh849ij99u.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "448732648895-19r90bsoqpvmg44j87sfseluvqp19s3c.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.xrone.user"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:448732648895:android:80fd348eded0813b117d0a",
+        "android_client_info": {
+          "package_name": "com.drone.user"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "448732648895-nkc2eovjdv2j0civm4kdfikp2f9c2304.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLWTwpESrRNInEpmfCJGryBtQM8o8v6sI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "448732648895-694qj7lempj0863n0qi7hgfh849ij99u.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "448732648895-19r90bsoqpvmg44j87sfseluvqp19s3c.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.xrone.user"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:448732648895:android:5d0628d79b5ff927117d0a",
+        "android_client_info": {
+          "package_name": "com.xrone.pilot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "448732648895-5rq6tpfop41h259478t9futnqb4sn42j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.xrone.pilot",
+            "certificate_hash": "581b956dab46f83260230ab52fbc4307cfadf9b7"
+          }
+        },
+        {
+          "client_id": "448732648895-nkc2eovjdv2j0civm4kdfikp2f9c2304.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLWTwpESrRNInEpmfCJGryBtQM8o8v6sI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "448732648895-694qj7lempj0863n0qi7hgfh849ij99u.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "448732648895-19r90bsoqpvmg44j87sfseluvqp19s3c.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.xrone.user"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:448732648895:android:87b3f49021fc4333117d0a",
+        "android_client_info": {
+          "package_name": "com.xrone.user"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "448732648895-aeees7mr4khmkj4ei0ge78n2fbn9ulqc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.xrone.user",
+            "certificate_hash": "2fcd371f226d38d01b8597d2f7773da555c545f8"
+          }
+        },
+        {
+          "client_id": "448732648895-k6kubfce6dc25tc72vfu0d3a61tc0jlu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.xrone.user",
+            "certificate_hash": "67b9e9456eb6adbaa3b45129c9a6276a4ed9f222"
+          }
+        },
+        {
+          "client_id": "448732648895-o0j2p8orteak7bccuj0v12st1rk9j51c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.xrone.user",
+            "certificate_hash": "c6c84d20d76ceeb3e349bdd4502d56b77fddeefc"
+          }
+        },
+        {
+          "client_id": "448732648895-nkc2eovjdv2j0civm4kdfikp2f9c2304.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLWTwpESrRNInEpmfCJGryBtQM8o8v6sI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "448732648895-694qj7lempj0863n0qi7hgfh849ij99u.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "448732648895-19r90bsoqpvmg44j87sfseluvqp19s3c.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.xrone.user"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
